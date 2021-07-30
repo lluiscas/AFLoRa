@@ -2,7 +2,7 @@
 
 AFloRa  (Advanced Framework for LoRa) is a simulation framework for carrying out end-to-end simulations for LoRa networks, including advanced characteristics, such as confirmed transmission, and propose 3 new SF management methods in order to avoid SF12 Well situation. 
 
-AFloRa is based on FLoRa (Framework for LoRa), a simulation framework for LoRa networks (http://flora.aalto.fi/). 
+AFloRa is based on FLoRa (Framework for LoRa), version 0.8, a simulation framework for LoRa networks (http://flora.aalto.fi/). 
 
 It is based on the [OMNeT++](https://omnetpp.org/) network simulator and uses components from the [INET framework](https://inet.omnetpp.org/) as well.
 
