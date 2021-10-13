@@ -3,6 +3,7 @@
 AFloRa  (Advanced Framework for LoRa) is a simulation framework for carrying out end-to-end simulations for LoRa networks, including advanced characteristics, such as confirmed transmission, and propose 3 new SF management methods in order to avoid SF12 Well situation. 
 
 We are happy to share the AFLoRa source code. Please consider citing the following paper as the main reference for AFLoRa:
+
 L. Casals,  C. Gomez, R. Vidal, "The SF12 Well in LoRaWAN: Problem and End-Device-Based Solutions", 21(19):6478, Sensors, September 2021.
 https://doi.org/10.3390/s21196478
 
